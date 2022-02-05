@@ -123,7 +123,7 @@ If you see something missing - please submit a PR 🙏
 - [Moonrank](https://moonrank.app/) - absolute statistical rarity for solana NFTs.
 - [SolTracker](https://soltracker.io/rarity) - has a smaller selection of projects, but works.
 
-## 💧 NFT Fractionalization / Liquidity
+## 💧 NFT Liquidity (Fractionalization, Loans)
 - [Token Vault](https://github.com/metaplex-foundation/metaplex/tree/master/rust/token-vault) 
       ![](https://img.shields.io/github/stars/metaplex-foundation/metaplex.svg?style=social)
       ([docs](https://docs.metaplex.com/architecture/deep_dive/token_vault)) - allows fractionalization of NFTs, although only has a naive buyout mechanism
@@ -131,6 +131,9 @@ If you see something missing - please submit a PR 🙏
 - [Bridgesplit](https://www.bridgesplit.com/)
 - [MIMO](https://linktr.ee/millionmonke)
 - [LIQNFT](https://liqnft.com)
+- [Solvent](https://solvent.xyz/)
+- [Pawnshop Gnomies](https://app.pawnshopgnomies.com/)
+- [Honey Finance](https://honey.finance/)
 
 ## 🛡️ NFT Verification / Security
 - [Solguard](https://www.solguard.io/) - enter the NFT mint to find out if it's part of a real collection or fake.
@@ -166,7 +169,6 @@ If you see something missing - please submit a PR 🙏
   ![](https://img.shields.io/github/stars/vicyyn/MetaplexMetadata-js.svg?style=social) - scrape metadata for the provided mint.
 - [Solana mint List](https://github.com/statikdev/sol-mint-list) 
   ![](https://img.shields.io/github/stars/statikdev/sol-mint-list.svg?style=social) - provide mint wallet address > scrape metadata & arweave data for each NFT in a given collection.
-- [Abstractica](https://tools.abstratica.art/) - provide mint wallet address > get addresses of current holders of a given collection.
 - [getHolderSnapshot](https://github.com/halaprix/getHolderSnapshot) 
   ![](https://img.shields.io/github/stars/halaprix/getHolderSnapshot.svg?style=social) - provide list of NFT mints > get holders for each.
 - [Metaplex Store Installer](https://github.com/blackranger07/Metaplex-Store-Installer) 
@@ -201,6 +203,7 @@ If you see something missing - please submit a PR 🙏
 - [Sol NFT Tools](https://sol-nft.tools/) - get mints created by a creator, get metadata from a mint, get holders of a bunch of mints, upload files to arweave.
 
 ### Dapp Boilerplates
+- [Official Starters](https://github.com/solana-labs/wallet-adapter/tree/master/packages/starter) - React, Next and Angular
 - [Create Solana Dapp](https://github.com/thuglabs/create-dapp-solana-nextjs) - Scaffolding for a Solana dapp using TS, Next.JS, Tailwinds CSS, and Daisy UI.
 - [Dapp Scaffold](https://github.com/solana-labs/dapp-scaffold) - Scaffolding for a dapp using TS, React & Antd.
 - [sol-rayz](https://github.com/NftEyez/sol-rayz) - set of tools to quickly build NFT Galleries
